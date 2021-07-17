@@ -1,16 +1,15 @@
-### Hi there 👋
+ Engineer at Razorpay.
 
-<!--
-**jay-ok/jay-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to Design softwares and see them living. Honed in Backend Development with a taste in Frontend, DevOps and ML
 
-Here are some ideas to get you started:
+### What I'm experienced in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<br>
+		<img src="lang-java.svg" width="800" height="400" />
+	<br>
+</div>
+
+### What I'm currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
