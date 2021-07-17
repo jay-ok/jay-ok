@@ -6,7 +6,7 @@ I like to Design softwares and see them living. Honed in Backend Development wit
 <div style="display: flex; align-items: center;justify-content: center; flex-direction: row;" >
  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/120px-Java_programming_language_logo.svg.png" width="35px" alt="Java" >&nbsp;&nbsp;&nbsp;&nbsp;
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" width="40px" alt="React JS" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" width="50px" alt="React JS" />&nbsp;&nbsp;&nbsp;&nbsp;
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/330px-Docker_%28container_engine%29_logo.svg.png" width="75px" alt="React JS" />&nbsp;&nbsp;&nbsp;&nbsp;
 
